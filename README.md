@@ -20,17 +20,18 @@ FoodMap is a mobile application that helps users discover nearby street food ven
 Screenshots of the application will be added here as development progresses.
 
 
-![Login Screen](Screenshots/login_screen.jpg)
-
-![Add Screen](Screenshots/add_screen.jpg)
-
-![Button Gallery Screen](Screenshots/button_gallery.jpg)
-
-![Details Screen](Screenshots/details.jpg)
-
-![Profile Screen](Screenshots/profile_screen.jpg)
-
-![Settings Screen](Screenshots/settings_screen.jpg)
+<table>
+  <tr>
+    <td align="center"><b>Login</b><br><img src="Screenshots/login_screen.jpg" width="200"></td>
+    <td align="center"><b>Gallery</b><br><img src="Screenshots/button_gallery.jpg" width="200"></td>
+    <td align="center"><b>Profile</b><br><img src="Screenshots/profile_screen.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Details</b><br><img src="Screenshots/details.jpg" width="200"></td>
+    <td align="center"><b>Add</b><br><img src="Screenshots/add_screen.jpg" width="200"></td>
+    <td align="center"><b>Settings</b><br><img src="Screenshots/settings_screen.jpg" width="200"></td>
+  </tr>
+</table>
 
 
 ## Technologies Used
