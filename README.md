@@ -1,17 +1,45 @@
-# untitled
+# FoodMap
+Short Description
 
-A new Flutter project.
+FoodMap is a mobile application that helps users discover nearby street food vendors and explore their menus, prices, availability, and reviews. The app is designed to make finding local street food easier and more convenient.
 
-## Getting Started
+Features
+Discover nearby street food vendors
+View vendor profiles and food menus
+View food prices and information
+Check vendor availability
+Search for food vendors
+View customer reviews and ratings
+Follow favorite vendors
+Simple and user-friendly interface
+Screenshots
 
-This project is a starting point for a Flutter application.
+Screenshots of the application will be added here as development progresses.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Technologies Used
+Flutter – Mobile application framework
+Dart – Programming language
+SQLite – Local database
+Android Studio – Development environment
+How to Run the Project
+Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure you have the following installed:
+
+Flutter SDK
+Dart SDK
+Android Studio
+An Android emulator or physical Android device
+Steps
+Clone the repository:
+git clone https://github.com/YOUR-USERNAME/FoodMap.git
+Navigate to the project directory:
+cd FoodMap
+Install the required dependencies:
+flutter pub get
+Connect an Android device or start an Android emulator.
+Run the application:
+flutter run
+
+The FoodMap application should now launch on your Android device or emulator.
