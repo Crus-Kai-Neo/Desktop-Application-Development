@@ -229,7 +229,7 @@ class ProfileScreen extends StatelessWidget {
             children: [
               const CircleAvatar(radius: 48, child: Icon(Icons.person, size: 48)),
               const SizedBox(height: 16),
-              const Text('Name: Milan'),
+              const Text('Name: Swodesh'),
               const Text('Role: Student'),
               const Text('Email: student@example.com'),
               const SizedBox(height: 24),
